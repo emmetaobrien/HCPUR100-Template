@@ -3,10 +3,8 @@
   "description": "A diffusion fibre orientation template created from 100 unrelated subjects of the Human Connectome Project scanned at 3 Tesla",
   "dates": [
     {
-      "@type": "Date",
       "date": "2018-01-01 00:00:00",
       "type": {
-        "@type": "Annotation",
         "value": "Start Date"
       }
     }
@@ -16,7 +14,7 @@
       "fullName": "Jason Kai",
       "firstName": "Jason",
       "lastName": "Kai",
-      "affiliations": 
+      "affiliations":
       [
         {
           "name": "Khan Computational Imaging Lab"
@@ -43,7 +41,7 @@
      [
        {
          "name": "Khan Computational Imaging Lab"
-       },   
+       },
        {
          "name": "Robarts Research Institute"
        },
@@ -90,7 +88,6 @@
   "privacy": "Open Access",
   "licenses": [
     {
-      "@type": "License",
       "name": "WU-Minn HCP Consortium Open Access Data Use Terms"
     }
   ],
@@ -99,7 +96,7 @@
 			"formats": [
 				"NIfTI",
 				".MIF"
-            		],
+            	],
 			"size" : 1,
 		        "unit" : {
             			"value": "GB"
@@ -128,6 +125,17 @@
 			"values": [
 				{
 					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"institution": "University of Western Ontario",
+					"city": "London",
+					"province": "Ontario",
+					"country": "Canada"
 				}
 			]
 		},
